@@ -1,73 +1,69 @@
-<h1 align="center">Mostafa Bilal</h1>
-<h3 align="center">📊 Data Analyst | SQL • Excel • Power BI • Python</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-2E9EF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge" />
-</p>
+<h1 align="center">Hi 👋, I'm Mostafa Mohamed Bilal</h1>
+<h3 align="center">Data Analyst | MSD Supply Chain (ERP) Trainee | Data Entry Supervisor</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mostafa-bilal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mostafa.mohamed.bilal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/Mostafa_Bilall" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Studying **Data Analysis Track** at [NTI – National Telecommunication Institute](https://www.nti.sci.eg/) (SQL, Excel, Power BI, Python, Tableau)
+- 🌱 Currently advancing in **Digital Egypt Pioneers Initiative (DEPI)** — Management & ERP Track, MSD Supply Chain Application Consultant
+- ⚖️ Background: **Bachelor of Law**, Alexandria University (2020)
+- 💼 6+ years of zero-error data operations experience across **healthcare** and **Umrah/pilgrimage logistics**
+- 🚀 Career goal: growing into an **ERP / Supply Chain Data Consultant**, with a long-term move toward opportunities in **Germany/Europe** 🇩🇪
+- 🗣️ Languages: Arabic (Native) | English (Intermediate) | German (Elementary)
+
+---
+
+### 🛠️ Technical Skills
+
+**Data Analysis & BI**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**ERP & Business Systems**
+![Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-002050?style=flat-square&logo=microsoft&logoColor=white)
+
+**Other Tools**
+Nusuk Platform · LDM Laboratory Systems · Product Information Management (PIM) · Data Validation & QA
+
+---
+
+### 📌 Featured Projects
+
+- 🔹 **BikeStores SQL Analysis** — NTI project: analytical SQL queries on the BikeStores sample database
+- 🔹 **Techno Steel Inventory Setup (DEPI/ERP)** — MSD Supply Chain / inventory configuration project
+- 🔹 **Call Center KPI Presentation** — Data analysis course assignment on Call Center domain KPIs
+
+*(Pin these repos on your profile once uploaded so they show up above ⬆️)*
+
+---
+
+### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=2E9EF7&center=true&vCenter=true&width=560&lines=SELECT+insight+FROM+raw_data;WHERE+noise+IS+NULL;GROUP+BY+pattern;-->+Turning+data+into+decisions" alt="typing" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Bilall&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Bilall&layout=compact" />
 </p>
 
 ---
 
-## About Me
+### 📫 Let's Connect
 
-I turn raw data into clear, usable insight. Currently working in data entry & operations at a Umrah pilgrimage services company, where I handle real registration and transportation scheduling data — and building my skills in SQL, Excel, and Power BI to move fully into data analysis.
-
-- 🎓 Law graduate, Alexandria University
-- 💼 Data Entry Supervisor, DMTCSA
-- 🧠 Trained in Microsoft Dynamics 365 (MSD365 ERP / Supply Chain) via DEPI
-- 📈 Focused on: data cleaning, dashboards, and KPI reporting
-- 🌍 Goal: building a career in data analysis, aiming to work internationally
-
----
-
-## Tools I Use
-
-| Category | Tools |
-|---|---|
-| Querying & Databases | SQL (MySQL) |
-| Spreadsheets | Excel |
-| BI & Dashboards | Power BI |
-| Programming | Python |
-| ERP Systems | Microsoft Dynamics 365 (MSD365) |
-| Version Control | Git / GitHub |
-
----
-
-## Featured Projects
-
-**🔹 HR KPIs Dashboard**
-Dashboard analyzing core HR key performance indicators.
-
-**🔹 Call Center Analysis**
-Data analysis presentation covering Call Center domain KPIs.
-
-*(Pin these repos on your GitHub profile so they appear above this README, and add the repo links here once uploaded.)*
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Bilall&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mostafa-Bilall&theme=minimal&hide_border=true&area=true" alt="activity graph" />
-</p>
-
----
-
-<p align="center"><i>Every dataset tells a story — I'm here to find it.</i></p>
+- 📧 mostafa.mohamed.bilal@gmail.com
+- 🔗 [linkedin.com/in/mostafa-bilal](https://www.linkedin.com/in/mostafa-bilal)
+- ✈️ [t.me/Mostafa_Bilall](https://t.me/Mostafa_Bilall)

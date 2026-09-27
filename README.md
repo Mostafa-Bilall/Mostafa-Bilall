@@ -1,43 +1,87 @@
-## Hey <img src="https://raw.githubusercontent.com/DenverCoder1/readme-animated-emojis/main/emojis/wave.gif" width="30px"/>, I'm Mostafa Bilal!
+<h1 align="center">Hi there, I'm Mostafa 👋</h1>
 
-<a href="https://www.linkedin.com/in/mostafa-bilal" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://t.me/Mostafa_Bilall" target="_blank"><img align="left" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="data analysis animation" />
+</p>
 
-<br/>
-<br/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+in+Progress;SQL+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+Into+Insights;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
+  </a>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Entry-level+Data+Analyst;Learning+SQL%2C+Excel%2C+Power+BI%2C+Python;Data+Entry+Supervisor+%40+DMTCSA" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-Learning-2E9EF7?style=flat&logo=databricks&logoColor=white" />
+</p>
 
-<img align="right" src="https://stories.freepiklabs.com/storage/1755/2-Java-Script-frameworks_Mesa-de-trabajo-1.svg" width="320px" alt="Developer illustration"/>
+---
 
-I'm an entry-level Data Analyst 📊, coming from a background in law and data operations. I currently work as a Data Entry Supervisor at DMTCSA 🕋, and I'm learning SQL, Excel, Power BI, and Python 🐍 to turn raw data into something people can actually use. Still new to the field, but I like digging through numbers until they tell a clear story 🔍.
+### 👋 About Me
 
-<br/>
+- 🎓 3rd-year student, Computer & Information Systems (حاسبات ومعلومات)
+- 💼 Data Entry & Operations at a Umrah/pilgrimage services company — hands-on with real transportation scheduling data
+- 📊 Learning Data Analysis: SQL, Excel, Power BI
+- 🌍 Long-term goal: growing my career and working abroad
+- ⚡ Fun fact: I turn messy spreadsheets into clean, usable data
 
-### 🧐 More About Me:
+---
 
-- 💼 &nbsp; I currently work as a **Data Entry Supervisor** at DMTCSA, handling Nusuk platform registrations for Umrah pilgrims
-- 🌱 &nbsp; I'm currently learning **Data Analysis** (SQL, Excel, Power BI, Python) at NTI
-- 🎓 &nbsp; I completed **Microsoft Dynamics 365 SCM** training through DEPI
-- 🎯 &nbsp; I'm working toward a **Data Analyst / ERP-Supply Chain** role
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/mostafa-bilal) or [Telegram](https://t.me/Mostafa_Bilall)
+### 🛠️ Skills
 
-<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### 🔨 Tools I'm Learning:
+---
 
-<img align="left" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img align="left" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-<img align="left" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+### 📌 Pinned Projects
 
-<br clear="left"/>
-<br>
+- 🔹 **BikeStores SQL Analysis** — Analysis queries on the BikeStores sample database
+- 🔹 **Techno Steel Inventory (DEPI ERP/MSD)** — Supply chain & inventory setup project
+
+*(Pin these repos on your GitHub profile so they show up automatically above your README)*
+
+---
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Bilall&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-<sub>Illustration by <a href="https://storyset.com/illustration/javascript-frameworks/amico" target="_blank">Storyset</a></sub>
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+<!--
+To activate the snake animation:
+1. Create a repo named exactly your username (e.g. YOUR_USERNAME/YOUR_USERNAME)
+2. Add the "Snake and Commits" GitHub Action from the awesome-github-profile-readme Tools list
+3. It auto-generates and updates this SVG daily
+-->
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>📈 Every dataset tells a story — I'm here to find it.</i></p>

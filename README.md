@@ -1,17 +1,19 @@
 <h1 align="center">Hi there, I'm Mostafa 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="data analysis animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180&section=header&text=Data%20Analyst%20in%20Progress&fontSize=32&fontColor=ffffff&animation=fadeIn" alt="header banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+in+Progress;SQL+%7C+Excel+%7C+Power+BI;Turning+Raw+Data+Into+Insights;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+in+Progress;SQL+%7C+Excel+%7C+Power+BI;MSD365+ERP+%7C+Python;Turning+Raw+Data+Into+Insights;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mostafa-Bilall&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
   <img src="https://img.shields.io/badge/Data%20Analyst-Learning-2E9EF7?style=flat&logo=databricks&logoColor=white" />
 </p>
+
+---
 
 ### 👋 About Me
 
@@ -22,6 +24,8 @@
 - 🌍 Long-term goal: growing my career and working abroad
 - ⚡ Fun fact: I turn messy spreadsheets into clean, usable data
 
+---
+
 ### 🛠️ Skills
 
 <p align="left">
@@ -29,8 +33,11 @@
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSD365%20ERP-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
 
 ### 📌 Pinned Projects
 
@@ -38,6 +45,8 @@
 - 🔹 **Call Center Analysis** — data analysis presentation on Call Center domain KPIs
 
 *(Pin these repos on your GitHub profile so they show up automatically above your README. Replace with your actual repo links once uploaded.)*
+
+---
 
 ### 📊 GitHub Stats
 
@@ -49,6 +58,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mostafa-Bilall&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ### 🐍 Contribution Snake
 
@@ -63,6 +74,8 @@ To activate the snake animation:
 3. It auto-generates and updates this SVG daily.
 -->
 
+---
+
 ### 📫 Connect with Me
 
 <p align="left">
@@ -75,5 +88,3 @@ To activate the snake animation:
 </p>
 
 <p align="center"><i>📈 Every dataset tells a story — I'm here to find it.</i></p>
-
-<sub>Illustration credit: elements adapted from <a href="https://storyset.com/illustration/javascript-frameworks/amico" target="_blank">Storyset</a></sub>

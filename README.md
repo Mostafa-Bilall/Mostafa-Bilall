@@ -19,17 +19,18 @@
 
 ### About me
 
-From a law degree to data — I've spent six years in data entry and operations, most recently supervising Umrah pilgrim registrations on the Nusuk Platform. Now I'm studying Data Analysis at NTI (SQL, Excel, Power BI, Python, Tableau) and I've finished DEPI's MSD Supply Chain (Microsoft Dynamics 365) track.
+I work in data entry and operations, supervising Umrah pilgrim registrations on the Nusuk Platform. Before that, I processed patient records at a medical group. Law degree originally, data now. Currently studying Data Analysis at NTI, and I've finished DEPI's MSD Supply Chain (Microsoft Dynamics 365) track.
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white">
+  <img src="https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white">
+  <img src="https://img.shields.io/badge/-Dynamics_365-002050?style=flat-square&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/-Dynamics_365-002050?style=flat-square&logo=microsoft&logoColor=white">
 </p>
 
 ### Projects

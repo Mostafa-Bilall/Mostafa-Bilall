@@ -8,6 +8,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Entry-level+Data+Analyst;Learning+SQL%2C+Excel%2C+Power+BI%2C+Python;Data+Entry+Supervisor+%40+DMTCSA" alt="Typing SVG"/>
 
+<img align="right" src="https://stories.freepiklabs.com/storage/1755/2-Java-Script-frameworks_Mesa-de-trabajo-1.svg" width="320px" alt="Developer illustration"/>
+
 I'm an entry-level Data Analyst 📊, coming from a background in law and data operations. I currently work as a Data Entry Supervisor at DMTCSA 🕋, and I'm learning SQL, Excel, Power BI, and Python 🐍 to turn raw data into something people can actually use. Still new to the field, but I like digging through numbers until they tell a clear story 🔍.
 
 <br/>
@@ -35,3 +37,7 @@ I'm an entry-level Data Analyst 📊, coming from a background in law and data o
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mostafa-Bilall&show_icons=true&theme=radical" alt="GitHub Stats"/>
+
+<br>
+
+<sub>Illustration by <a href="https://storyset.com/illustration/javascript-frameworks/amico" target="_blank">Storyset</a></sub>

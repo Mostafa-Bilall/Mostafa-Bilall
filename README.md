@@ -1,7 +1,13 @@
-<h1 align="center">Mostafa Bilal</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2E9EF7,100:0D1117&text=Mostafa%20Bilal&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Entry-level%20Data%20Analyst&descAlignY=60&descSize=20&animation=fadeIn" alt="Mostafa Bilal banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Entry-level+Data+Analyst;SQL+Server+%7C+Power+BI+%7C+Excel+%7C+Python;Dynamics+365+SCM+Trained;Turning+Raw+Data+Into+Insights" alt="Typing SVG" />
+  <img src="hero.png" width="420" alt="Data analyst at work" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=SQL+Server+%7C+Power+BI+%7C+Excel+%7C+Python;Dynamics+365+SCM+Trained;Turning+Raw+Data+Into+Insights;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +25,7 @@
 
 ## 👋 About Me
 
-I am a data professional with 8+ years of experience working with high-volume records in healthcare and Umrah logistics. Today I lead a team of 6 at DMTCSA that processes 12,000+ Nusuk Platform registrations per season. I am now moving into data analysis, and I am looking for an entry-level Data Analyst role where I can combine my data quality background with SQL, Power BI and Excel.
+I am a data professional with 8+ years of experience working with high-volume records in healthcare and Umrah logistics. Today I lead a team of 6 at DMTCSA that processes 12,000+ Nusuk Platform registrations per season. I am moving into data analysis, and I am looking for an entry-level Data Analyst role where I can combine my data quality background with SQL, Power BI and Excel.
 
 ## 💡 What I Bring
 
@@ -30,18 +36,52 @@ I am a data professional with 8+ years of experience working with high-volume re
 
 ---
 
-## 🛠️ Skills
+## 🔄 How I Work With Data
+
+```mermaid
+flowchart LR
+    A[Raw data] --> B[Clean with Python and Power Query]
+    B --> C[Model as a star schema]
+    C --> D[Analyze with SQL and DAX]
+    D --> E[Build Power BI dashboards]
+    E --> F[Insights for decisions]
+```
+
+---
+
+## 🧰 Tools & Technologies
+
+**📊 Data & Analytics**
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black" />
 </p>
 
-**Also:** Power Query · Power Pivot · DAX · Pandas · Data Cleaning · Data Validation · KPI Reporting · Data Modeling
+**🏭 ERP & Business Systems**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dynamics%20365%20SCM-002050?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nusuk%20Platform-0B6E4F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+</p>
+
+**⚙️ Dev & Productivity**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+**🗣️ Languages:** Arabic (Native) · English (Intermediate) · German (A2+)
 
 ---
 
@@ -66,11 +106,20 @@ I am a data professional with 8+ years of experience working with high-volume re
 - 📘 **Management & ERP: MSD Supply Chain Application Consultant**, Digital Egypt Pioneers Initiative (DEPI), 2026
 - 📜 Complete SQL Course and Data Analysis With Excel, DataSkool, 2026
 - 📜 AI Fundamentals with Capstone Project, IBM SkillsBuild, 2026
+- 🇩🇪 German Language Program, Level A1 (150 hours), Education Development Fund, 2026
 - 🎓 Bachelor of Law, Alexandria University, 2020
 
 ---
 
-## 📊 GitHub Activity
+## 🌱 Right Now
+
+- 📚 Completing the NTI data analysis program (technical track finished)
+- 🔎 Looking for an entry-level Data Analyst or Dynamics 365 SCM role
+- 🇩🇪 Learning German
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mostafa-Bilall&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -87,3 +136,7 @@ I am open to entry-level Data Analyst and Dynamics 365 SCM roles in Egypt and ab
 Reach me on [LinkedIn](https://www.linkedin.com/in/mostafa-bilal) or at mostafa.mohamed.bilal@gmail.com.
 
 <p align="center"><i>📈 Every dataset tells a story. I am here to find it.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,100:2E9EF7" alt="footer" />
+</p>
